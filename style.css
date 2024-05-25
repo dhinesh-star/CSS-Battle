@@ -1,0 +1,38 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  background-color: #dbba30;
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+#topRect {
+  margin-left: 40px;
+  width: 200px;
+  height: 40px;
+  background-color: #a95415;
+}
+
+#secondRect {
+  margin-left: 40px;
+  width: 80px;
+  height: 40px;
+  background-color: #a95415;
+}
+.flexSetup {
+  margin-left: 40px;
+  display: flex;
+}
+.orangeSquare {
+  width: 40px;
+  height: 40px;
+  background-color: #a95415;
+}
+.yellowSquare {
+  width: 40px;
+  height: 40px;
+  background-color: #dbba30;
+}
